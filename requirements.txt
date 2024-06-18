@@ -1,0 +1,12 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+
+
+
+pip install --upgrade langchain_community
+
+streamlit run code.py
