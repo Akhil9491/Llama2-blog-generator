@@ -5,7 +5,7 @@ langchain
 python-box
 streamlit
 
-
+## download Llama2 from huggging face 
 
 pip install --upgrade langchain_community
 
